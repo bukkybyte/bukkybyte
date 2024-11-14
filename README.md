@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm an Embedded Systems Engineer and Data Scientist with a
 - **RTOS**: FreeRTOS, Zephyr
 
 ### Data Science
-- **Languages**: Python, R
+- **Languages**: Python
 - **Libraries**: NumPy, pandas, scikit-learn, TensorFlow, PyTorch
 - **Data Visualization**: Matplotlib, Seaborn, Plotly
 - **Machine Learning**: Supervised/Unsupervised learning, Time Series Analysis, Deep Learning
