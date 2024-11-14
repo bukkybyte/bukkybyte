@@ -15,10 +15,10 @@ Welcome to my GitHub! I'm an Embedded Systems Engineer and Data Scientist with a
 ## 🧰 Skills and Technologies
 
 ### Embedded Systems
-- **Languages**: C, C++, Python, Assembly
+- **Languages**: C, C++, Python
 - **Microcontrollers**: ARM Cortex, STM32, ESP32, AVR
 - **Protocols**: SPI, I2C, UART, CAN
-- **Tools**: Keil, MPLAB, PlatformIO, Arduino IDE
+- **Tools**: MPLAB, PlatformIO, Arduino IDE
 - **RTOS**: FreeRTOS, Zephyr
 
 ### Data Science
