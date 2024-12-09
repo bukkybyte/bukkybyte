@@ -19,11 +19,7 @@ Welcome to my GitHub! I'm an Embedded Systems Engineer and Data Scientist with a
       />
   </picture>
   </div>
-  <br>
-  
-  
 
-<br>
 <br>
 <div align="center" style="display: flex; align-items: center; flex-wrap: wrap; gap: 10px;">  
   <!-- Data Science Tools -->
