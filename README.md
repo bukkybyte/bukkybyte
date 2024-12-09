@@ -22,8 +22,8 @@ Welcome to my GitHub! I'm an Embedded Systems Engineer and Data Scientist with a
   </div>
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=shamhi&label=Profile%20Visits&style=for-the-badge" />
   <br>
-  <a href="https://t.me/sh4mh1">
-    <img src="https://img.shields.io/badge/-Channel-1a1b27?style=for-the-badge&logo=telegram" alt="Telegram channel">
+  <a href="https://wa.me/+2348168391030">
+    <img src="https://img.shields.io/badge/-Whatsapp%20Me-1a1b27?style=for-the-badge&logo=whatsapp" alt="Whatsapp">
   </a>
 </div>
 
