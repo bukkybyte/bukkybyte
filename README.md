@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm an Embedded Systems Engineer and Data Scientist with a
   </div>
   <br>
   
-  <div align="center">
+  <div align="center" style="display: flex; align-items: center; flex-wrap: wrap; gap: 10px;"> 
     <a href="https://wa.me/+2348168391030">
       <img src="https://img.shields.io/badge/-Whatsapp%20Me-1a1b27?style=for-the-badge&logo=whatsapp" alt="Whatsapp">
     </a>
