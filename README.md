@@ -3,50 +3,7 @@
 Welcome to my GitHub! I'm an Embedded Systems Engineer and Data Scientist with a passion for building efficient, reliable embedded solutions and extracting insights from complex datasets. Here, you'll find a blend of projects and repositories reflecting my experience in embedded systems, data analytics, and machine learning.
 
 ---
-<div align="center">
-  <div align="center">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-      />
-      <img
-        alt="github contribution grid snake animation"
-        src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-      />
-  </picture>
-  </div>
-  <br>
-  <div style="font-size: 3.5em;">
-    <a href="https://wa.me/+2348168391030">
-      <img src="https://img.shields.io/badge/-Whatsapp%20Me-1a1b27?style=for-the-badge&logo=whatsapp" alt="Whatsapp">
-    </a>
-  <div>
-</div>
-<br>
-<br>
-<div align="center" style="display: flex; align-items: center; flex-wrap: wrap; gap: 10px;">  
-  <!-- Data Science Tools -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn" alt="Scikit-Learn" width="40" height="40"/>&nbsp;
 
-  
-  <!-- Embedded Systems Tools -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original.svg" title="Embedded C" alt="Embedded C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-</div>
 
 
 ## 🛠️ About Me
