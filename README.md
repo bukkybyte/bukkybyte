@@ -3,6 +3,29 @@
 Welcome to my GitHub! I'm an Embedded Systems Engineer and Data Scientist with a passion for building efficient, reliable embedded solutions and extracting insights from complex datasets. Here, you'll find a blend of projects and repositories reflecting my experience in embedded systems, data analytics, and machine learning.
 
 ---
+<div align="center">
+  <div align="center">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+      />
+      <img
+        alt="github contribution grid snake animation"
+        src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+      />
+  </picture>
+  </div>
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=shamhi&label=Profile%20Visits&style=for-the-badge" />
+  <br>
+  <a href="https://t.me/sh4mh1">
+    <img src="https://img.shields.io/badge/-Channel-1a1b27?style=for-the-badge&logo=telegram" alt="Telegram channel">
+  </a>
+</div>
 
 ## 🛠️ About Me
 
