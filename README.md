@@ -1,4 +1,5 @@
-# Hi there, I’m Taofeeq Nurudeen 👋
+# Hi there, I’m Taofeeq Nurudeen 👋  [![Telegram Channel](https://img.shields.io/badge/-Channel-1a1b27?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sh4mh1)
+
 
 Welcome to my GitHub! I'm an Embedded Systems Engineer and Data Scientist with a passion for building efficient, reliable embedded solutions and extracting insights from complex datasets. Here, you'll find a blend of projects and repositories reflecting my experience in embedded systems, data analytics, and machine learning.
 
