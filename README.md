@@ -3,7 +3,6 @@
 Welcome to my GitHub! I'm an Embedded Systems Engineer and Data Scientist with a passion for building efficient, reliable embedded solutions and extracting insights from complex datasets. Here, you'll find a blend of projects and repositories reflecting my experience in embedded systems, data analytics, and machine learning.
 
 ---
-<div align="center">
   <div align="center">
     <picture>
       <source
@@ -26,7 +25,7 @@ Welcome to my GitHub! I'm an Embedded Systems Engineer and Data Scientist with a
       <img src="https://img.shields.io/badge/-Whatsapp%20Me-1a1b27?style=for-the-badge&logo=whatsapp" alt="Whatsapp">
     </a>
   <div>
-</div>
+
 <br>
 <br>
 <div align="center" style="display: flex; align-items: center; flex-wrap: wrap; gap: 10px;">  
@@ -47,7 +46,7 @@ Welcome to my GitHub! I'm an Embedded Systems Engineer and Data Scientist with a
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 </div>
-</div>
+
 
 
 ---
