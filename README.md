@@ -21,13 +21,14 @@ Welcome to my GitHub! I'm an Embedded Systems Engineer and Data Scientist with a
   </picture>
   </div>
   <br>
-  <div style="font-size: 1.5em;">
+  <div style="font-size: 3.5em;">
     <a href="https://wa.me/+2348168391030">
       <img src="https://img.shields.io/badge/-Whatsapp%20Me-1a1b27?style=for-the-badge&logo=whatsapp" alt="Whatsapp">
     </a>
   <div>
 </div>
-
+<br>
+<br>
 <div align="center" style="display: flex; align-items: center; flex-wrap: wrap; gap: 10px;">  
   <!-- Data Science Tools -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
