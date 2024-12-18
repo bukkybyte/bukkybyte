@@ -77,6 +77,7 @@ I’m always open to discussing projects, collaborations, or even just sharing k
 ## 🎓 Certifications
 
 - **[Applied Data Science Lab](https://www.credly.com/badges/8c1e1abd-afc4-4ed3-931f-6e740ea82daa/public_url)**
+
   An applied data science course certificate issued by [WorldQuant University](https://learn.wqu.edu/)
   A brief description of the certificate, highlighting the skills acquired and the issuing organization.
 ---
