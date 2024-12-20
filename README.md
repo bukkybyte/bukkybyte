@@ -70,7 +70,7 @@ Welcome to my GitHub! I'm an Embedded Systems Engineer and Data Scientist with a
 
 ## 📫 Let’s Connect!
 
-I’m always open to discussing projects, collaborations, or even just sharing knowledge about embedded systems and data science. Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) or feel free to reach out via email at bukola1030@gmail.com.
+I’m always open to discussing projects, collaborations, or even just sharing knowledge about embedded systems and data science. Connect with me on [LinkedIn](https://www.linkedin.com/in/taofeeq-nurudeen-bb1465342) or feel free to reach out via email at bukola1030@gmail.com.
 
 ---
 
