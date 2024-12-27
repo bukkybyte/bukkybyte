@@ -81,8 +81,5 @@ I’m always open to discussing projects, collaborations, or even just sharing k
   An applied data science course certificate issued by [WorldQuant University](https://learn.wqu.edu/).
 
 ---
-
-Feel free to share specific certificate details, and I can help you format or phrase them!
-
 Thank you for visiting, and enjoy exploring my repositories! 😊
 
